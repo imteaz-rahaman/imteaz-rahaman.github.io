@@ -11,7 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #003a60;
-
+  overflow-x: hidden;
 }
 
 a {
@@ -329,12 +329,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 
 #mypic{
-
-  width: 80%;
-  height: 61vh;
-  margin-left: 20%;
-  background-size: cover;
-  position: relative;
+  height: 320px;
 
 }
 #hero {

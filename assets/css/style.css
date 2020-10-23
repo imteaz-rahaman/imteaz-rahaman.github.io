@@ -1412,3 +1412,9 @@ section {
   color: #7DCADA;
   text-decoration: none;
 }
+@media (min-width: 1360px) {
+  .projectList{
+    margin-left: 20%;
+    
+  }
+}
